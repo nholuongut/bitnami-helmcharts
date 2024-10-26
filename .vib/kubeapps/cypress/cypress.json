@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost/",
+  "env": {
+    "repoName": "bitnami",
+    "repoURL": "oci://registry-1.docker.io/bitnamicharts"
+  },
+  "defaultCommandTimeout": 30000
+}
